@@ -15,7 +15,7 @@ import { useBooking } from "../bookings/useBooking";
 import { formatCurrency } from "../../utils/helpers";
 // import { useCheckin } from "./useCheckin";
 import { useSettings } from "../settings/useSettings";
-import { useCheckin } from "./useCheckIn";
+import { useCheckin } from "./useCheckin";
 
 const Box = styled.div`
   /* Box */
